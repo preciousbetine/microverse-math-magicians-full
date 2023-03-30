@@ -4,3 +4,11 @@ header {
   justify-content: space-between;
   padding: 20px 30px;
 }
+
+@media (max-width: 900px) {
+  header {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+}

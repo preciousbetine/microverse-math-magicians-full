@@ -71,8 +71,7 @@ A simple math website
 
 <!-- > Add a link to your deployed project. -->
 
-<!-- - [Live Demo Link](https://preciousbetine.github.io/microverse-javascript-capstone/dist) -->
-- No Live Demo yet
+- [Live Demo Link](https://microverse-math-magicians-full.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

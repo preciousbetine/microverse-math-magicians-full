@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.app {
+  height: 100vh;
+  width: 100%;
+  padding: 50px;
+}
+
+nav {
+  display: flex;
+  gap: 15px;
+  font-size: 18px;
+
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+
+  a.active {
+    color: #de9918 !important;
+  }
+}
+
+.quote-container {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  padding: 40px;
+}
+
+.calculator-container {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  padding: 40px;
+}
+
+@media (max-width: 900px) {
+  .calculator-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+    text-align: center;
+  }
+}

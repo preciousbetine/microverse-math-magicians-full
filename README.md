@@ -2,9 +2,7 @@
 
 <div align="center">
   <img src="public/images/math.jpeg" alt="logo" width="140"  height="auto" style="border-radius:30px;" />
-
   <h1><b>Math Magicians</b></h1>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +32,7 @@
 
 # About Project <a name="about-project"></a>
 
-A simple calculator + quotes website
+A simple math website
 
 ## 🛠 Built With <a name="built-with"></a>
 

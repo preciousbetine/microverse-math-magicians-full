@@ -1,8 +1,11 @@
+import QuotesComponent from '@/components/Quote';
 import React from 'react'
 
 const Quote = () => {
   return (
-    <div>Quote</div>
+    <div className='quote-container'>
+      <QuotesComponent />
+    </div>
   )
 };
 

@@ -1,10 +1,10 @@
 import React from 'react'
 import Navbar from '@/components/Navbar';
-import '@/styles/Header.module.scss';
+import Styles from '@/styles/Header.module.scss';
 
 const Header = () => {
   return (
-    <header>
+    <header className={Styles.header}>
       <h1>Math Magicians</h1>
       <Navbar />
     </header>

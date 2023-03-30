@@ -55,7 +55,8 @@ A simple math website.
 
 <!-- > Add a link to your deployed project. -->
 
-- [Live Demo Link](https://microverse-math-magicians-full.vercel.app/)
+- [Vercel](https://microverse-math-magicians-full.vercel.app/)
+- [Render](https://math-magicians-87yf.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

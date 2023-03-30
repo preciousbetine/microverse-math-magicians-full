@@ -38,7 +38,7 @@ A simple math website.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- React J
+- React JS
 - SCSS
 
 ### Key Features <a name="key-features"></a>

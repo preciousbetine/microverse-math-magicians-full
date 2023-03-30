@@ -6,20 +6,18 @@ import Calculator from '@/routes/Calculator';
 import Quote from '@/routes/Quote';
 import '@/styles/App.scss';
 
-const App = () => {
-  return (
-    <div className="app">
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Layout />}>
-            <Route index element={<Home />}></Route>
-            <Route path="/calculate" element={<Calculator />}></Route>
-            <Route path="/quotes" element={<Quote />}></Route>
-          </Route>
-        </Routes>
-      </BrowserRouter>
-    </div>
-  )
-};
+const App = () => (
+  <div className="app">
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="/calculate" element={<Calculator />} />
+          <Route path="/quotes" element={<Quote />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  </div>
+);
 
 export default App;

@@ -1,14 +1,12 @@
-import React from 'react'
+import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-const Navbar = () => {
-  return (
-    <nav>
-      <NavLink to="/">Home</NavLink>
-      <NavLink to="/calculate">Calculator</NavLink>
-      <NavLink to="/quotes">Quote</NavLink>
-    </nav>
-  )
-}
+const Navbar = () => (
+  <nav>
+    <NavLink to="/">Home</NavLink>
+    <NavLink to="/calculate">Calculator</NavLink>
+    <NavLink to="/quotes">Quote</NavLink>
+  </nav>
+);
 
-export default Navbar
+export default Navbar;

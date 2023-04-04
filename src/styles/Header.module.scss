@@ -2,7 +2,15 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 30px;
+  padding: 30px 50px;
+  background: #de9918;
+  position: sticky;
+  top: 0;
+
+  h1 {
+    font-size: 32px;
+    font-family: 'Montserrat', serif;
+  }
 }
 
 @media (max-width: 900px) {

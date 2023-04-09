@@ -55,8 +55,8 @@ A simple math website.
 
 <!-- > Add a link to your deployed project. -->
 
-- [Vercel](https://microverse-math-magicians-full.vercel.app/)
-- [Render](https://math-magicians-87yf.onrender.com/)
+- [Link 1 (Vercel)](https://microverse-math-magicians-full.vercel.app/)
+- [Link 2 (Render)](https://math-magicians-87yf.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -46,7 +46,6 @@ A simple math website.
 
 - A simple arithmetic calculator
 - Random quote display
-- Responsive design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
